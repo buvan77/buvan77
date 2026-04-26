@@ -1,16 +1,20 @@
-## Hi there 👋
+# Buvanesh S R
 
-<!--
-**buvan77/buvan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer specializing in Java, Spring Boot, and React.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Routine Optimizer: Full-stack application for managing and optimizing daily routines with adaptive scheduling and performance insights.
+
+## Tech Stack
+
+Java, Spring Boot, React.js, PostgreSQL, REST APIs
+
+## Currently Working On
+
+* Improving backend architecture using service layer
+* Exploring AI-based features for intelligent recommendations
+
+## Contact
+
+Email: [buvansr00@gmail.com](mailto:buvansr00@gmail.com)
